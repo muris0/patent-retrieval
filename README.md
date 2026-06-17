@@ -87,6 +87,7 @@ Cutoffs: K ∈ { 10, 20, 50, 100, 200, 500, 1000}
 ```
 src/patent_retrieval/
 ├── encoder/              # Dense (FAISS) and sparse (BM25) encoders
+├── finetuning/           # Hard-negative mining, LoRA/MNRL training, Optuna HPO
 ├── reranker/             # Pointwise(cross-encoder) and listwise rerankers
 ├── agents/               # LLM-based patent judge and summarizer
 ├── post_encoder/         # Hybrid retrieval,  and graph-based filtering
