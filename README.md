@@ -3,7 +3,7 @@
 **Master Thesis** - Mahmoud Al-Murish
 
 **Supervision:** Valentin Knappich and Dr. Anna Hätty
-
+**Examiners:** Prof. Dr. Sören Auer and Dr. Jennifer D'Souza
 ---
 
 ## Overview
